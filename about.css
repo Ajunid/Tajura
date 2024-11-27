@@ -1,0 +1,36 @@
+body{
+    background-image: url('./jpg/Screenshot\ 2024-11-27\ 004657.png');
+ }
+ header{
+    background-color: rgb(58, 58, 58);
+    max-height: 300px;
+ }
+ h1{
+    margin-left: 1200px;
+    background-color: rgb(58, 58, 58);
+ }
+ nav{
+    margin-left: 200px;
+    list-style: none;
+    padding: 0px;
+    flex-direction: row;
+
+ }
+ nav ul li{
+    display: inline;
+    padding: 0 25px;
+ }
+ p{
+    margin-left: 500px;
+    color: antiquewhite;
+    font-size: xx-large;
+ }
+ footer {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #2282be;
+    color: #000000;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
